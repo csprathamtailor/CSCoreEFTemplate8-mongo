@@ -1,0 +1,1 @@
+# CSCoreEFTemplate8-mongo
